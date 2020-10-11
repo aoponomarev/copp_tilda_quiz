@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* Квиз "Работа будущего" */
+#rec236944131 .t862 .t-popup__container {
+  height: 77vh;
+  overflow: auto;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper {
+  min-height: auto !important;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper {
+  min-height: auto !important;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper #form236944131 .t-input-group {
+  min-height: auto !important;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper #form236944131 .t-input-group[data-input-lid="1534434209351"] label.t-img-select__control:nth-child(2) {
+  width: 320px;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper #form236944131 .t-input-group[data-input-lid="1534434209351"] label.t-img-select__control:nth-child(2) .t-bgimg {
+  width: 320px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 0;
+  height: 240px;
+  background-position: right;
+}
