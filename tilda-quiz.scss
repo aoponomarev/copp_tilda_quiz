@@ -5,18 +5,18 @@
 
 /* Квиз "Работа будущего" */
 #rec236944131 {
-	.t862 {
-		.t-popup__container {
+	.t862 { // компонент квиза
+		.t-popup__container { // квиз в попапе
 			height: 77vh;
 			overflow: auto;
 			.t862__wrapper {
 				min-height: auto !important;
-				.t862__quiz-form-wrapper {
+				.t862__quiz-form-wrapper { // обертка формы квиза
 					min-height: auto !important;
-					#form236944131 {
-						.t-input-group {
+					#form236944131 { // форма квиза
+						.t-input-group { // обертка шагов формы
 							min-height: auto !important;
-							&[data-input-lid="1534434209351"] {
+							&[data-input-lid="1534434209351"] { // идентификатор шага формы
 								label.t-img-select__control:nth-child(2) {
 									width: 320px;
 									.t-bgimg {
@@ -29,8 +29,27 @@
 									}
 								}		
 							}
+							&[data-input-lid="1534434222621"] {
+								.t-checkbox__control {
+									width: 49%;
+									display: inline-flex;
+									margin-top: 5px;
+									margin-bottom: 5px;
+									width: 49%;
+									display: inline-flex;
+									font-size: 11px;
+									font-weight: 600;
+									:checked ~ * {
+										color: red;
+									}
+								}
+							}
 						}
 					}		
+				}
+				.t862__btn-wrapper { // слой кнопок линейной навигации
+					bottom: auto;
+					position: relative;
 				}			
 			}				
 		}	
