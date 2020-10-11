@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* Квиз "Работа будущего" */
+#rec236944131 .t862 .t-popup__container {
+  height: 77vh;
+  overflow: auto;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper {
+  min-height: auto !important;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper {
+  min-height: auto !important;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper #form236944131 .t-input-group {
+  min-height: auto !important;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper #form236944131 .t-input-group[data-input-lid="1534434209351"] label.t-img-select__control {
+  width: 18%;
+  margin: 2%;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper #form236944131 .t-input-group[data-input-lid="1534434209351"] label.t-img-select__control:nth-child(2) {
+  width: 50%;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper #form236944131 .t-input-group[data-input-lid="1534434209351"] label.t-img-select__control:nth-child(2) .t-bgimg {
+  padding-bottom: 50%;
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper #form236944131 .t-input-group[data-input-lid="1534434222621"] .t-checkbox__control {
+  width: 49%;
+  display: inline-flex;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 49%;
+  display: inline-flex;
+  font-size: 11px;
+  font-weight: 600;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__quiz-form-wrapper #form236944131 .t862__capture-form {
+  min-height: auto !important;
+}
+#rec236944131 .t862 .t-popup__container .t862__wrapper .t862__btn-wrapper {
+  bottom: auto;
+  position: relative;
+}
