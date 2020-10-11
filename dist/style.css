@@ -1,0 +1,9 @@
+#form236944131 label.t-img-select__control:nth-child(2) {
+  width: 300px;
+}
+#form236944131 label.t-img-select__control:nth-child(2) .t-bgimg {
+  width: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 55%;
+}
