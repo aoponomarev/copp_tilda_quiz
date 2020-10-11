@@ -19,13 +19,14 @@
 							&[data-input-lid="1534434209351"] { // идентификатор шага формы
 								label.t-img-select__control:nth-child(2) {
 									// width: 320px;
-									.t-bgimg {
+									.t-bgimg {										
 										// width: 320px;
 										// height: 240px;
-										background-size: cover;
-										background-position: right;
-										background-repeat: no-repeat;
-										padding-bottom: 0;
+										// background-size: cover;
+										// background-position: right;
+										// background-repeat: no-repeat;
+										// padding-bottom: 0;
+										clip: auto;
 									}
 								}		
 							}
