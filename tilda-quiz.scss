@@ -28,7 +28,7 @@
 									}
 								}		
 							}
-							&[data-input-lid="1534434222621"] {
+							&[data-input-lid="1534434222621"] { // карточка с чекбоксами
 								.t-checkbox__control {
 									width: 49%;
 									display: inline-flex;
@@ -39,7 +39,10 @@
 									font-size: 11px;
 									font-weight: 600;
 								}
-							}
+							}							
+						}
+						.t862__capture-form { // обертка завершения формы
+							min-height: auto !important;							
 						}
 					}		
 				}
